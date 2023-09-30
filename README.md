@@ -1,16 +1,4 @@
 # m8
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![ss1](https://github.com/Rabby3075/landscapView/assets/65245815/ecede726-a984-40e7-b8fd-d8afb329f102)
+![ss2](https://github.com/Rabby3075/landscapView/assets/65245815/356f0977-f693-4652-be4a-8a66f6e7051d)
